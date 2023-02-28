@@ -132,6 +132,7 @@ header .fa-bars{
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
+    margin-top: 58px;
 }
 .produtos .box-container .box{
     flex: 1 1 30rem;
